@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  term: MyString
+  popularity: MyString
+  integer: MyString
+
+two:
+  term: MyString
+  popularity: MyString
+  integer: MyString
